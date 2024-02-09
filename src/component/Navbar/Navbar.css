@@ -1,0 +1,38 @@
+/* Navbar.css */
+
+/* Define the background and text color for the active link */
+.navbar-nav .nav-item.active .new-link {
+  background-color: #e7dddd !important;
+  color: rgb(24, 22, 22) !important;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+/* Define the styles for the navbar links */
+.new-link {
+  color: #e7dddd !important;
+  text-decoration: none;
+}
+
+/* Define the styles for the navbar links on hover */
+.new-link:hover {
+  background-color: #e7dddd !important;
+  color: black !important;
+}
+
+/* Define the background color for the navbar */
+.bg-new {
+  background-color: #310058;  
+}
+
+/* Define additional styling for the links */
+.p-7 {
+  padding: 5px 15px !important;
+  border-radius: 8px;
+  margin: 0 10px;
+}
+
+/* Define the color for the navbar brand */
+.navbar-brand {
+  color: #e7dddd !important;  
+}
